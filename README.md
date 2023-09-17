@@ -1,4 +1,4 @@
-# Desafio Vuex
+# Desafio Vuex - Cataline
 
 ## Project setup
 ```
