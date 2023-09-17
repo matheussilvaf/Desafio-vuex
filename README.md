@@ -1,4 +1,4 @@
-# desafio
+# Desafio Vuex
 
 ## Project setup
 ```
